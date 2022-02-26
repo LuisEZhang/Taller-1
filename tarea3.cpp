@@ -151,7 +151,7 @@ int main(){
     }
     
 
-//prueba
+//prueba2
     
     getch();
     return 0;
